@@ -88,9 +88,9 @@ import java.util.Iterator;
 @Mod(modid = TheTitans.MODID, name = TheTitans.MODNAME, version = TheTitans.VERSION, guiFactory = "net.minecraft.theTitans.configs.TitanConfigGui")
 public class TheTitans
 {
-	public static final String MODNAME = "The Titans Mod";
-	public static final String MODID = "thetitans";
-	public static final String VERSION = "indev-0.5";
+	public static final String MODNAME = "The Titans Mod 2";
+	public static final String MODID = "thetitanstwo";
+	public static final String VERSION = "sequel-0.1";
 	public static final String CLIENT = "net.minecraft.theTitans.ClientProxy";
 	public static final String SERVER = "net.minecraft.theTitans.CommonProxy";
 	public static final String TEXTURES[] = {"default", "new"};
